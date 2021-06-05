@@ -1,0 +1,51 @@
+,years,month,name,TotalOrders,TotalRevenue
+0,2020,1,"Adams, Barrett and Thomas",27,315.7900000000001
+1,2020,1,Edwards-Mcdaniel,18,280.72
+2,2020,1,Hall Inc,21,348.16999999999996
+3,2020,1,"Henderson, Olson and Ward",23,282.65
+4,2020,1,"Martinez, Marsh and Gomez",17,222.38
+5,2020,1,Scott-Brown,18,216.82000000000002
+6,2020,1,Stevens-Barr,27,455.0299999999999
+7,2020,1,Taylor Ltd,28,450.72
+8,2020,1,Valdez Inc,24,357.64
+9,2020,1,Young Group,15,271.6700000000001
+10,2020,2,"Adams, Barrett and Thomas",24,436.31000000000006
+11,2020,2,Edwards-Mcdaniel,22,439.02
+12,2020,2,Hall Inc,22,381.17999999999995
+13,2020,2,"Henderson, Olson and Ward",25,342.6
+14,2020,2,"Martinez, Marsh and Gomez",33,442.7400000000002
+15,2020,2,Scott-Brown,19,274.21000000000004
+16,2020,2,Stevens-Barr,24,322.04999999999995
+17,2020,2,Taylor Ltd,27,343.6599999999999
+18,2020,2,Valdez Inc,25,383.29
+19,2020,2,Young Group,26,404.1799999999999
+20,2020,3,"Adams, Barrett and Thomas",27,430.5799999999999
+21,2020,3,Edwards-Mcdaniel,29,428.3199999999999
+22,2020,3,Hall Inc,19,286.01000000000005
+23,2020,3,"Henderson, Olson and Ward",23,312.72
+24,2020,3,"Martinez, Marsh and Gomez",36,573.24
+25,2020,3,Scott-Brown,13,197.23999999999998
+26,2020,3,Stevens-Barr,31,488.46999999999997
+27,2020,3,Taylor Ltd,26,428.80999999999995
+28,2020,3,Valdez Inc,29,463.58
+29,2020,3,Young Group,23,356.59999999999997
+30,2020,4,"Adams, Barrett and Thomas",27,354.82
+31,2020,4,Edwards-Mcdaniel,30,416.1200000000001
+32,2020,4,Hall Inc,25,391.25
+33,2020,4,"Henderson, Olson and Ward",24,319.28999999999996
+34,2020,4,"Martinez, Marsh and Gomez",23,361.03999999999996
+35,2020,4,Scott-Brown,20,391.17999999999995
+36,2020,4,Stevens-Barr,24,343.31
+37,2020,4,Taylor Ltd,24,393.1499999999999
+38,2020,4,Valdez Inc,26,406.60999999999996
+39,2020,4,Young Group,26,366.11999999999995
+40,2020,5,"Adams, Barrett and Thomas",4,90.45
+41,2020,5,Edwards-Mcdaniel,1,24.43
+42,2020,5,Hall Inc,2,44.05
+43,2020,5,"Henderson, Olson and Ward",3,60.269999999999996
+44,2020,5,"Martinez, Marsh and Gomez",1,19.53
+45,2020,5,Scott-Brown,3,14.17
+46,2020,5,Stevens-Barr,1,24.61
+47,2020,5,Taylor Ltd,5,83.29
+48,2020,5,Valdez Inc,2,39.25
+49,2020,5,Young Group,8,114.64999999999999
